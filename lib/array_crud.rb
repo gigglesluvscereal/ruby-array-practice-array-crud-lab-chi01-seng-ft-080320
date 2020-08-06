@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["air", "water", "fire", "earth"]
+  four_elements = ["air", "water", "fire", "earth"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  four_elemnts << "lighting"
 end
 
 def add_element_to_start_of_array(array, element)
