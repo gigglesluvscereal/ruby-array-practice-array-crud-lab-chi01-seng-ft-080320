@@ -7,11 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  four_elemnts << "lighting"
+  four_elements << "lighting"
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  four_elements.unshift
 end
 
 def remove_element_from_end_of_array(array)
