@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  four_elements.push("lighting")
+  array << "lighting"
 end
 
 def add_element_to_start_of_array(array, element)
